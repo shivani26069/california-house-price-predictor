@@ -226,11 +226,5 @@ plt.xlabel("Importance Score")
 plt.show()
 
 
-# %%
-move house Prediction model.ipynb r"C:\Users\Dell\OneDrive\Desktop\python files\califorinahousingmodel"
-
-
-# %%
-
 
 
